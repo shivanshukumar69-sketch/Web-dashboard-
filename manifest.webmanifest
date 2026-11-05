@@ -1,0 +1,8 @@
+{
+  "name": "ASCEND Personal Command Centre",
+  "short_name": "ASCEND",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10"
+}
